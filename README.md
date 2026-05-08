@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Shoubik Saha 👋
 
-<!--
-**Shoubik/Shoubik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Mechatronics Engineering @ KIIT University  
+📊 BSc (Honours) Data Science & AI @ IIT Guwahati  
+🔧 Building at the intersection of IoT, Embedded Systems & Machine Learning
 
-Here are some ideas to get you started:
+## Projects
+- 🤖 VOICELESS – AI Gesture Recognition System (ESP32 + OpenCV)
+- 👤 IoT Face Recognition Attendance System
+- 💧 Smart Humidifier – IoT Room Humidity Control
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+Python | C++ | ESP32 | Arduino | OpenCV | Fusion 360 | Machine Learning
